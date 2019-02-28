@@ -1,0 +1,9 @@
+name: Hub
+description: Hub plugin for MCPlayer
+version: 1.0
+author: Shprqness Development
+main: network.mcplayer.hub.Main
+
+commands:
+  help:
+    usage: /help
